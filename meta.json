@@ -1,0 +1,23 @@
+{
+  "repo": "chaos-vantage-ultimate-suite",
+  "product": "Chaos Vantage Ultimate Suite",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "cad",
+  "topics": [
+    "chaos-vantage",
+    "real-time-gpu",
+    "vray-scene-view",
+    "archviz-walkthrough",
+    "live-link-render",
+    "chaos-setup-failed-fix",
+    "how-to-install-chaos",
+    "chaos-windows",
+    "chaos-desktop-2026",
+    "chaos-desktop-package"
+  ],
+  "site": "toolix.me"
+}
